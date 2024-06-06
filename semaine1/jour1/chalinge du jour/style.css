@@ -1,0 +1,55 @@
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+
+nav {
+    background-color: black;
+    height: 70px;
+    display: flex;
+    justify-content: space-between;
+    padding-inline: 20px;
+    align-items: center;
+}
+
+img {
+    width: 40px;
+    height: 40px;
+
+}
+
+.menu a {
+    color: white;
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 20;
+}
+
+.menu {
+    display: flex;
+    gap: 30px;
+
+
+}
+
+.container h1 {
+    color: white;
+    font-size: 80px;
+}
+
+
+.container {
+    padding-top: 300px;
+    padding-left: 30px;
+    background-image: url(images/avenger.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+}
+
+.container p {
+    width: 400px;
+    color: white;
+}
