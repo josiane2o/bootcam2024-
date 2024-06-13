@@ -1,0 +1,14 @@
+h4{
+    color: bisque;
+    font-size: 40px;
+    text-decoration: line-through;
+    text-align: center;
+}
+   
+body{
+    /* image de fond */
+    background-image: url('../jour2/vacations/images/beach.jpg');
+background-repeat: no-repeat ;
+     
+}  
+    
